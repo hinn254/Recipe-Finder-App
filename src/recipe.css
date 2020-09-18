@@ -1,0 +1,33 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgba(71, 71, 71);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  min-width: 40%;
+  font-weight: 500;
+}
+
+.image {
+  /* border-radius: 50%; */
+  width: 15rem;
+  /* height: 100px; */
+  border: 1px solid lightgrey;
+  margin-bottom: 20px;
+}
+h1,
+h3 {
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+  margin: 8px;
+}
+
+h1 {
+  margin-bottom: 2px;
+}
+ol{
+  margin: 2px;
+}
